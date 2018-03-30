@@ -288,6 +288,7 @@ a.demo-layout-btn:hover{
 	display: inline-block;
 	background: #ffd800;
 	padding: 7px 39px;
+	margin: 0 10px;
 	color: #000;
 	border-radius: 3px;
 	border: 1px solid #ffd800;
